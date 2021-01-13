@@ -1,0 +1,19 @@
+head {
+  background-color: blue;
+}
+h1 {
+  color: burlywood;
+}
+header {
+  color: chocolate;
+}
+.container {
+  background-color: darkblue;
+}
+
+#main-bio {
+  background-color: darkorchid;
+}
+h2 {
+  background-color: indianred;
+}

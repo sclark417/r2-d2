@@ -1,0 +1,17 @@
+header {
+  background-color: dimgray;
+}
+h1 {
+  text-align: center;
+  color: bisque;
+}
+body {
+  background-color: dodgerblue;
+}
+
+h2 {
+  font-weight: lighter;
+}
+p {
+  color: beige;
+}
